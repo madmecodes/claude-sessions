@@ -1,5 +1,10 @@
 # claude-sessions
 
+<img width="1159" height="551" alt="Screenshot 2026-05-09 at 5 20 56 PM" src="https://github.com/user-attachments/assets/e89a82f1-26e2-4203-bd27-e60fe9f1f736" />
+<img width="409" height="137" alt="Screenshot 2026-05-09 at 5 21 14 PM" src="https://github.com/user-attachments/assets/487e2180-5f9b-4b63-a29a-ed65ad700065" />
+
+<img width="1191" height="242" alt="Screenshot 2026-05-09 at 5 21 34 PM" src="https://github.com/user-attachments/assets/54169ed7-e8ed-4c5a-bcff-18033b076628" />
+
 A terminal UI for browsing, searching, and resuming Claude Code sessions.
 
 ## The Problem
