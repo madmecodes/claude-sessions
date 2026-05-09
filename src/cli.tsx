@@ -72,7 +72,7 @@ function main() {
       const cleanEnv = { ...process.env };
       delete cleanEnv.CLAUDECODE;
       try {
-        execFileSync("claude", ["--resume", resumeId], {
+        execFileSync("claude", ["--dangerously-skip-permissions", "--resume", resumeId], {
           stdio: "inherit",
           env: cleanEnv,
           cwd: resumeCwd || undefined,
